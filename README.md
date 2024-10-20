@@ -1,1 +1,2 @@
 # Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability
+This project analyzes the relationship between a car’s features, market category, and pricing to help manufacturers optimize pricing and product development decisions. By using data analysis techniques like regression analysis and market segmentation, we aim to identify key features and categories that are both popular among consumers and profitable for manufacturers. The insights gained will assist manufacturers in improving competitiveness and maximizing profitability while meeting consumer demand.
